@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdirnecamlcs96&layout=compact)
+![Top Langs](https://github-readme-stats-reymonds-projects-42db0d94.vercel.app/api/top-langs/?username=zdirnecamlcs96&layout=compact&hide=PHP,Blade,HTML,CSS,Java)
 
 <!--
 **zdirnecamlcs96/zdirnecamlcs96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
